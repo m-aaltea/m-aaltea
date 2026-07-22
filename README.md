@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Final-year BSc Software Engineering student at the University of Kent, graduating with a first-class degree, with hands-on<br>object-oriented development experience across Java, Python, C++, TypeScript and React, and working knowledge of<br>PostgreSQL. Winner of the Romax Digital sponsored track at Hackabury 2026 and Best Use of Vultr at KentHackIt 2026, with<br>a consistent record of designing, building and shipping full-stack software to tight deadlines. Particularly curious about how<br>AI can augment modern software engineering, having integrated the Google Gemini and ElevenLabs APIs into working<br>applications.
 
 
